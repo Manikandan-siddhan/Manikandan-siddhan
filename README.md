@@ -1,6 +1,6 @@
 MANIKANDAN S | JAVA DEVELOPER
 
-An accomplished Java Full Stack Developer and Selenium Automation Engineer with over 3+ years of experience, demonstrating expertise in Java, Spring Framework, front-end technologies (HTML, CSS, JavaScript), API testing using Postman, and Selenium automation. Possesses a skill set focused on delivering high-quality software solutions with a focus on user satisfaction and operational efficiency. Committed to ensuring robust API functionality, conducting thorough testing, and creating captivating user interfaces. Skilled in delivering high-quality, user-oriented software solutions with a focus on efficiency.
+An accomplished Java Full Stack Developer and Selenium Automation Engineer with over 4+ years of experience, demonstrating expertise in Java, Spring Framework, front-end technologies (HTML, CSS, JavaScript), API testing using Postman, and Selenium automation. Possesses a skill set focused on delivering high-quality software solutions with a focus on user satisfaction and operational efficiency. Committed to ensuring robust API functionality, conducting thorough testing, and creating captivating user interfaces. Skilled in delivering high-quality, user-oriented software solutions with a focus on efficiency.
 
 Skills & Abilities
 
